@@ -6,12 +6,12 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 # Tech stacks
 
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
+*SQL
+*PowerBi Desktop
+*Excel
+*DAX language
+*DAX studio (for optimizing the report)
+*Project charter file
 
 # PowerBI techniques Learnt
 
