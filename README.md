@@ -7,6 +7,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 # Tech stacks
 
 *SQL
+
 *PowerBi Desktop
 *Excel
 *DAX language
